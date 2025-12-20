@@ -1,3 +1,6 @@
+![Docker Build](https://github.com/ASalonio/docker-r-studio/actions/workflows/docker.yml/badge.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/augusto93921/docker-r-studio)
+
 # docker-r-studio
 
 R-Studio in a container
@@ -5,6 +8,7 @@ R-Studio in a container
 ## Description
 
 To allow usage of R-Studio in a portable way using Docker Container
+The image is automatically built and published to Docker Hub using GitHub Actions.
 
 ## Procedure
 
