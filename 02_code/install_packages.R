@@ -13,6 +13,10 @@ install.packages("syuzhet")
 install.packages("scales")
 install.packages("reshape2")
 install.packages("gapminder")
+install.packages("DT")
+install.packages("shinyjs")
+install.packages("V8")
+
 
 # The following two commands remove any previously installed H2O packages for R.
 if ("package:h2o" %in% search()) { detach("package:h2o", unload=TRUE) }
