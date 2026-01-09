@@ -16,6 +16,7 @@ install.packages("gapminder")
 install.packages("DT")
 install.packages("shinyjs")
 install.packages("V8")
+install.packages("cranlogs")
 
 
 # The following two commands remove any previously installed H2O packages for R.
