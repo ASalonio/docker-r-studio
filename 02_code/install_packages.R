@@ -17,6 +17,10 @@ install.packages("DT")
 install.packages("shinyjs")
 install.packages("V8")
 install.packages("cranlogs")
+install.packages("golem")
+install.packages("config")
+install.packages("attempt")
+install.packages("here")
 
 
 # The following two commands remove any previously installed H2O packages for R.
