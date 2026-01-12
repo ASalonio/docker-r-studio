@@ -23,6 +23,7 @@ install.packages("attempt")
 install.packages("here")
 install.packages("attachment")
 install.packages("rhub")
+install.packages("dockerfiler")
 
 # The following two commands remove any previously installed H2O packages for R.
 if ("package:h2o" %in% search()) { detach("package:h2o", unload=TRUE) }
